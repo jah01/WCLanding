@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="svgCurl1" width="1080px" height="175px" viewBox="0 0 1080 175" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  <path class="curl"
+        d="M0 143C21.802 138.421 42.5824 133.921 62.5 126C147.512 92.1917 199.383 4.04301 281.499 2.00108C382.855 -0.519295 395.228 157.465 613.499 154.501C831.771 151.538 851.871 -0.453936 1063.5 0.00101931C1275.13 0.455967 1541.58 155.217 1627.5 132.501" transform="translate(-82.00012 10)" id="New-shape-2" fill="none" stroke="url(#gradient_1)" stroke-width="20" />
+</svg>

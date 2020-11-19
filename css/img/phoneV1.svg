@@ -1,0 +1,166 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="604" viewBox="0 0 312 604" id="mainSvg">
+    
+<!--
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.0.5/gsap.min.js"></script>
+      <script type="text/javascript">
+          svg = getElementById("Group_10");
+          //var t = svg.getElementById("text");
+          //var g10 = phone.querySelector("Group_10");
+
+
+          gsap.to(svg, {duration: 2, x: 300});
+      
+      
+      </script>
+-->
+    
+  <defs>
+<!--          <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.0.5/gsap.min.js"></script>-->
+<!--
+      <script type="text/javascript">
+    var element = document.getElementById("Group_10");
+          gsap.to(element, {duration: 2, x: 300});
+
+      </script>
+-->
+      
+<!--
+      <script type="text/javascript">
+          svg = querySelector("#Group_10");
+          //var t = svg.getElementById("text");
+          //var g10 = phone.querySelector("Group_10");
+
+
+          gsap.to(svg, {duration: 2, x: 300});
+      
+      
+      
+      </script>
+-->
+      
+      
+      
+      
+      
+      
+      
+<!--
+      <script src="../../js/snap.svg.js"></script>
+      <script src="../../js/snap.svg-min.js"></script>
+      <script type="text/javascript"> <![CDATA[
+          var s = Snap("#Group_10");
+          var up = s.select(#upperNotif");
+          up.attr({
+              fill: "red"
+          });
+]]>
+      
+      </script>
+      
+-->
+      
+      
+      
+      
+      
+      <style type="text/css">
+          @font-face {
+              font-family: "SFProDisplay-Light";
+              src: url("../fonts/Apple/SF-Pro-Display-Light.otf");
+          }
+          
+          @font-face {
+              font-family: "BloggerSans-Bold";
+              src: url("../fonts/Blogger/BloggerSans-Bold.ttf");
+          }
+          
+<!--
+          #Group_10 {
+              fill: red;
+          }
+-->
+      
+      
+      </style>
+<!--
+      <animateTransform   attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 60 70"
+                          to="360 60 70"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+-->
+    <filter id="shadow"> <!-- source: Mozilla -->
+        <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#ccc" flood-opacity="1" />
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.014" x2="0.889" y2="-0.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffcd"/>
+      <stop offset="1" stop-color="#e7e7e7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dadada"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1eaef6"/>
+      <stop offset="1" stop-color="#298cbd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-1058 -204)">
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_2" data-name="Group 2" transform="translate(378 155)">
+        <rect id="Rectangle" width="312" height="604" rx="34" transform="translate(680 49)"/>
+        <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M30,0H264.84a30,30,0,0,1,30,30V555.017a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V30A30,30,0,0,1,30,0Z" transform="translate(688.58 58.491)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="117" height="34.514" rx="17.257" transform="translate(777.5 49)"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="117" height="17.257" transform="translate(777.5 49)"/>
+      </g>
+    </g>
+    <text id="_12:45" data-name="12:45" transform="translate(1123 354)" fill="#fff" font-size="76" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">12:45</tspan></text>
+    <text id="Monday_January_13" data-name="Monday, January 13" transform="translate(1141 376)" fill="#fff" font-size="18" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">Monday, January 13</tspan></text>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 -6)">
+      <rect id="lowerNotif" data-name="Rectangle 21" width="221" height="74" rx="10" transform="translate(1104 427)" fill="url(#linear-gradient-2)/*#ddd*/"/> <!-- TESTING 42, *43, 46, *47, 54 -->
+      <text id="WeCycle" transform="translate(1141 448)" fill="#666" font-size="16" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">WeCycle</tspan></text>
+        <!-- edits: #333 instead of #888 THIS CHANGED
+font size 16 instead of 14
+new <tspan> with second line
+1110 instead of 1113
+new size of the notification above ^ lowerNotif height: 61 to 74
+
+-->
+      <text id="After_lunch..._anything_to_recycle_" data-name="After lunch... anything to recycle?" transform="translate(1110 474)" fill="#333" font-size="16" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">After lunch... anything to</tspan><tspan x="0" y="16">recycle?</tspan></text>
+      <g id="Group_6" data-name="Group 6">
+        <rect id="lowerNotifBadge" data-name="Rectangle 27" width="24" height="24" rx="5" transform="translate(1113 431)" fill="url(#linear-gradient-3)/*#ddd*/"/>
+        <text id="W" transform="translate(1118.5 448.5)" fill="#fff" font-size="16" font-family="BloggerSans-Bold, Blogger Sans" font-weight="700"><tspan x="0" y="0">W</tspan></text>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9" style="/*opacity: 0;*/" filter="url(#shadow)"> <!-- used for testing -->
+<!--
+              <animateTransform   attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          from="0 100"
+                          to="0 0"
+                          dur=".5s"
+                          repeatCount="0"
+                                begin="2s"
+                                />
+-->
+
+      <rect id="upperNotif" data-name="Rectangle 21" width="221" height="74" rx="10" transform="translate(1104 427)" fill="url(#linear-gradient-2)" filter="#shadow"/>
+      <text id="WeCycle-2" data-name="WeCycle" transform="translate(1141 448)" fill="#666" font-size="16" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">WeCycle</tspan></text>
+      <!-- edits: #333 instead of #888
+1110 instead of 1113
+font size 16 instead of 14
+
+-->
+<text id="Ben_Yan_just_passed_your_daily_record_of_water_bottles_recycled_" data-name="Ben Yan just passed your daily record of
+water bottles recycled!" transform="translate(1110 474)" fill="/*#888*/#333" font-size="16" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">Ben Yan just passed your daily</tspan><tspan x="0" y="16">record of water bottles recycled!</tspan></text>
+      <g id="Group_6-2" data-name="Group 6">
+        <rect id="Rectangle_27-2" data-name="Rectangle 27" width="24" height="24" rx="5" transform="translate(1113 431)" fill="url(#linear-gradient-3)"/>
+        <text id="W-2" data-name="W" transform="translate(1118.5 448.5)" fill="#fff" font-size="16" font-family="BloggerSans-Bold, Blogger Sans" font-weight="700"><tspan x="0" y="0">W</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

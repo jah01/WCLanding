@@ -1,0 +1,470 @@
+/* css for !!!!test/index.html */
+/* created on January 13, 2020 by Joseph Hilber */
+/* this is gonna be great */
+
+html {
+/*    scroll-behavior: smooth;*/
+}
+
+body {
+    color: #888; /* to whatever is desired */
+    font-family: "part3", "Roboto", "Segoe", sans-serif;
+    padding: 10px;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+/* for svgs, but is this even needed? */
+@font-face {
+    font-family: "Roboto";
+    /* src: url("fonts/Roboto/Roboto-Light.ttf"); */
+}
+
+@font-face {
+    font-family: "SF";
+    src: url("fonts/Apple/SF-Pro-Display-Light.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Light";
+    src: url("fonts/Roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("fonts/Roboto/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("fonts/Roboto/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "allCaps";
+    src: url("fonts/sf-cartoonist-hand/TrueType/SFCartoonistHandSC.ttf");
+}
+
+@font-face {
+    font-family: "part3";
+    src: url("fonts/Blogger/BloggerSans-Medium.ttf");
+}
+
+@font-face {
+    font-family: "BloggerSans-Bold";
+    src: url("fonts/Blogger/BloggerSans-Bold.ttf");
+}
+
+.noTouch { /* from tw16 and edited by Karmic Coder on StackOverflow: https://stackoverflow.com/questions/6900124/how-to-make-certain-text-not-selectable-with-css */
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+#horizontalElements {
+    display: flex;
+}
+
+#width240 {
+    width: 240px;
+}
+
+#buffer {
+    width: 100%;
+}
+
+.space {
+    height: 140px;
+}
+
+.realCenter {
+    align-items: center;
+    justify-content: center;
+    display: flex; /* could mess things up */
+}
+.navButton {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    border-radius: 10px;
+    border-collapse: separate;
+}
+
+#littleBuffer {
+    width: 40px;
+}
+
+.navButtonBorder {
+    width: 100%;
+    height: 40px;
+    background-color: inherit;
+    border: 5px black solid;
+    border-radius: 10px;
+}
+
+.navButton, .navButtonBorder > div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#home {
+
+}
+
+#home2 {
+    background-color: black;
+    position: relative;
+    height: 1000px;
+    z-index: 1;
+    width: 100%;
+    overflow: hidden;
+}
+
+.block {
+    background-color: maroon;
+    width: 100%;
+    height: 200px;
+    opacity: .6;
+    margin-left: 100%;
+}
+
+.block > img {
+    margin-left: -200px;
+}
+
+#firstBlock {
+    -webkit-animation: slide 3s steps(250);
+}
+
+@-webkit-keyframes slide {
+    0% {
+        margin-left: 0%;
+    }
+    5% {
+        margin-left: 10%;
+    }
+    90% {
+        margin-left: 80%;
+    }
+    100% {
+        margin-left: 100%;
+    }
+}
+
+/* --some code from a previous project--
+.rotateCustom {
+    animation: rotateAnimation 40s steps(3000) infinite;
+}
+
+@keyframes rotateAnimation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+*/
+
+#homeDiv {
+    /*
+    background-color: red;
+    opacity: .3;
+    */
+    position: relative;
+    width: 100%;
+    height: 570px;
+    z-index: 0;
+    overflow: hidden;
+}
+
+#phone {
+    /* font-family: "SF"; */
+    position: absolute;
+    height: 68vh;
+    width: auto;
+    margin-left: 56vw;
+    margin-top: 56px;
+    max-height: 514px;
+    min-height: 400px;
+}
+
+#time {
+    position: absolute;
+    width: 9vw;
+    height: auto;
+    margin-left: 60.2vw;
+    margin-top: 21vh;
+}
+
+.header {
+    /* CHANGING THE KERNING(?) JUST DO MARING-LEFT: -1VW OR THE DESIRED VALUE */
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 3vw; /* can change to whatever desired -- 4 is the "standard for this */
+    padding-left: 2vw;
+    z-index: 1;
+    min-height: 400px;
+    min-width: 250px;
+}
+
+.header1 {
+    background: -webkit-linear-gradient(#ccc, #989898);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "part3"; /* CAN CHANGE BACK TO "Roboto-Black" IF DESIRED */
+/*    font-size: 17vh;*/
+    font-size: 140px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#part2 {
+    font-family: "part3"; /* CAN CHANGE BACK TO "allCaps" IF DESIRED */
+    -webkit-text-fill-color: #989898;
+/*    font-size: 5.5vh;*/
+    font-size: 40px;
+    text-align: center;
+}
+
+.highlight {
+    background-color: #ff0;
+}
+
+#part3 {
+    font-family: "part3";
+    background: -webkit-linear-gradient(#000, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+/*    font-size: 4vh;*/
+    font-size: 30px;
+    letter-spacing: .05em;
+    text-align: center;
+}
+
+
+/* the next few lines: https://codepen.io/danield770/pen/eBJpzz */
+@media screen and (max-width: 1000px) {
+    .header1 {
+        font-size: 100px;
+    }
+    #part2 {
+        font-size: 28.571px;
+    }
+    #part3 {
+        font-size: 21.429px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #phone {
+        margin-left: 400px;
+    }
+}
+
+/*
+@media screen and (max-width: 800px) {
+    .header1 {
+        font-size: 80px;
+    }
+    #part2 {
+        font-size: 22.857px;
+    }
+    #part3 {
+        font-size: 17.143px;
+    }
+}
+*/
+
+#screen, #date, #time {
+    animation: screenAnimate 1s;
+}
+
+@keyframes screenAnimate {
+    0% {
+        opacity: 0;
+    }
+    60% {
+        opacity: 0;
+    }
+    75% {
+        opacity: .4;
+    }
+    85% {
+        opacity: .7;
+    }
+    95% {
+        opacity: .95;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/*
+#Group_9 {
+    animation: notifShow 5.4s;
+}
+
+@keyframes notifShow{
+    0% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+*/
+
+#div2 {
+    position: relative;
+    margin-top: -50px;
+    height: 800px;
+    min-height: 500px;
+/*    background-color: aliceblue;*/
+}
+
+#squiSVG {
+    position: absolute;
+/*
+    height: 500px;
+    width: 1000px;
+*/
+    margin-left: 0vw;
+}
+
+/*
+.showLater {
+    animation: phreshPhade 6s;
+}
+
+@keyframes phreshPhade {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+    opacity: 1;
+}
+*/
+
+/* --temporarily*/
+.toughSquigglePath {
+    animation: phreshPhadePhill 8s;
+}
+
+.toughSquiggleDiv {
+    animation: phreshPhadeGround 8s;
+}
+
+@keyframes phreshPhadePhill {
+    0% {
+        fill: rgba(64, 64, 78, 0);
+    }
+    85% {
+        fill: rgba(64, 64, 78, 0);
+    }
+    100% {
+        fill: rgba(64, 64, 78, 1);
+    }
+}
+
+@keyframes phreshPhadeGround {
+    0% {
+        background-color: rgba(64, 64, 78, 0);
+    }
+    85% {
+        background-color: rgba(64, 64, 78, 0);
+    }
+    100% {
+        background-color: rgba(64, 64, 78, 1);
+    }
+}
+
+
+
+/*
+#secondMain {
+    animation: phreshPhadeBackground 8s;
+}
+
+@keyframes phreshPhadeBackground {
+    0% {
+        background-color: rgba(64, 64, 78, 0);
+    }
+    85% {
+        background-color: rgba(64, 64, 78, 0);
+    }
+    100% {
+        background-color: rgba(64, 64, 78, 1);
+    }
+}
+*/
+
+/*
+#phone2 {
+    margin-top: -1000px;
+    position: absolute;
+}
+*/
+
+#picturePhone {
+    position: absolute;
+    height: 400px;
+    width: auto;
+    margin-left: 10vw;
+    margin-top: 24px;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+
+#arrow {
+    z-index: 2;
+    position: absolute;
+    text-align: center;
+    opacity: 0;
+    animation: customFadeIn 1s;
+    animation-delay: 7s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes customFadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#armAndBottle {
+    transform-origin: 1000px 1000px;
+    animation: customRotate 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes customRotate {
+    from {
+        transform: translateX(1000px);
+        transform: rotate(15deg);
+    }
+    50% {
+/*        transform: translateX(1000px);*/
+    }
+    to {
+        transform: translateX(0);
+        transform: rotate(0deg);
+    }
+}

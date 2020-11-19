@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="604" viewBox="0 0 312 604">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.014" x2="0.889" y2="-0.042" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffcd"/>
+      <stop offset="1" stop-color="#e7e7e7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dadada"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-1058 -204)">
+    <g id="Group_4" data-name="Group 4">
+      <g id="Group_2" data-name="Group 2" transform="translate(378 155)">
+        <rect id="Rectangle" width="312" height="604" rx="34" transform="translate(680 49)"/>
+        <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M30,0H264.84a30,30,0,0,1,30,30V555.017a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V30A30,30,0,0,1,30,0Z" transform="translate(688.58 58.491)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="117" height="34.514" rx="17.257" transform="translate(777.5 49)"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="117" height="17.257" transform="translate(777.5 49)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="221" height="90" rx="10" transform="translate(1104 421)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="221" height="90" rx="10" transform="translate(1104 427)" fill="url(#linear-gradient-2)"/>
+    <text id="_12:45" data-name="12:45" transform="translate(1122 362)" fill="#fff" font-size="76" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">12:45</tspan></text>
+    <text id="Monday_January_13" data-name="Monday, January 13" transform="translate(1135 385)" fill="#fff" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Monday, January 13</tspan></text>
+  </g>
+</svg>

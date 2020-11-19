@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="604" viewBox="0 0 312 604">
+  <defs>
+    <linearGradient id="linear-gradient-Android" x1="1.594" y1="1.469" x2="0.1" y2="-0.057" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff00ec"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="PHONEPICSVGAndroidWorking" transform="translate(-58 -176)">
+    <path id="bottomGrad" d="M30,0H264.84a30,30,0,0,1,30,30V555.017a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V30A30,30,0,0,1,30,0Z" transform="translate(66.58 185.491)" fill="url(#linear-gradient-Android)"/>
+    <g id="armAndBottle" class="wow">
+      <rect id="arm" width="147" height="107" transform="translate(214 446)" fill="#825202"/>
+      <path id="body" d="M17,0H92q.417,0,.834.02t.832.061q.415.041.828.1t.822.143q.409.081.814.183t.8.223q.4.121.792.262t.778.3q.386.16.763.338t.745.375q.368.2.726.411t.705.446q.347.232.682.48t.658.513q.323.265.632.545t.6.575q.295.3.575.6t.545.632q.265.323.514.658t.48.682q.232.347.447.7t.411.726q.2.368.375.745t.338.763q.16.385.3.778t.262.792q.121.4.223.8t.182.814q.082.409.143.822t.1.828q.041.415.062.832T109,17V201q0,.417-.02.834t-.062.832q-.041.415-.1.828t-.143.822q-.081.41-.182.814t-.223.805q-.121.4-.262.792t-.3.778q-.16.386-.338.763t-.375.745q-.2.368-.411.726t-.447.705q-.232.347-.48.682t-.514.658q-.264.323-.545.632t-.575.6q-.3.3-.6.575t-.632.545q-.323.265-.658.514t-.682.48q-.347.232-.705.447t-.726.411q-.368.2-.745.375t-.763.338q-.386.16-.778.3t-.792.262q-.4.121-.8.223t-.814.182q-.409.082-.822.143t-.828.1q-.415.041-.832.062T92,218H17q-.417,0-.834-.02t-.832-.062q-.415-.041-.828-.1t-.822-.143q-.409-.081-.814-.182t-.8-.223q-.4-.121-.792-.262t-.778-.3q-.386-.16-.763-.338t-.745-.375q-.368-.2-.726-.411t-.7-.447q-.347-.232-.682-.48t-.658-.514q-.323-.264-.632-.545t-.6-.575q-.3-.3-.575-.6t-.545-.632q-.265-.323-.513-.658t-.48-.682q-.232-.347-.446-.705t-.411-.726q-.2-.368-.375-.745t-.338-.763q-.16-.385-.3-.778t-.262-.792q-.121-.4-.223-.805t-.183-.814q-.081-.409-.143-.822t-.1-.828q-.041-.415-.061-.832T0,201V17q0-.417.02-.834t.061-.832q.041-.415.1-.828t.143-.822q.081-.409.183-.814t.223-.8q.121-.4.262-.792t.3-.778q.16-.386.338-.763t.375-.745q.2-.368.411-.726t.446-.7q.232-.347.48-.682t.513-.658q.265-.323.545-.632t.575-.6q.3-.3.6-.575t.632-.545q.323-.265.658-.513t.682-.48q.347-.232.7-.446t.726-.411q.368-.2.745-.375t.763-.338q.385-.16.778-.3t.792-.262q.4-.121.8-.223t.814-.183q.409-.081.822-.143t.828-.1q.415-.041.832-.061T17,0Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 101.894, 377.77)" fill="#e8f0f9"/>
+      <path id="neck" d="M7,0H25q.172,0,.343.008t.343.025q.171.017.341.042t.338.059q.168.034.335.075T27.033.3q.164.05.326.108t.32.124q.159.066.314.139T28.3.826q.151.081.3.169t.29.184q.143.1.281.2t.271.211q.133.109.26.224t.249.237q.121.121.237.249t.224.26q.109.133.211.271t.2.281q.1.143.184.29t.169.3q.081.152.154.307t.139.314q.066.159.124.321t.108.326q.05.164.092.331t.075.335q.033.169.059.338t.042.341q.017.171.025.343T32,7V37q0,.172-.008.343t-.025.343q-.017.171-.042.341t-.059.338q-.033.169-.075.335t-.092.331q-.05.164-.108.326t-.124.321q-.066.159-.139.314t-.154.307q-.081.152-.169.3t-.184.29q-.1.143-.2.281t-.211.271q-.109.133-.224.26t-.237.249q-.121.121-.249.237t-.26.224q-.133.109-.271.211t-.281.2q-.143.1-.29.184t-.3.169q-.151.081-.307.154t-.314.139q-.159.066-.32.124t-.326.108q-.164.05-.331.092t-.335.075q-.168.033-.338.059t-.341.042q-.171.017-.343.025T25,44H7q-.172,0-.343-.008t-.343-.025q-.171-.017-.341-.042t-.338-.059q-.169-.034-.335-.075T4.967,43.7q-.164-.05-.326-.108t-.321-.124q-.159-.066-.314-.139T3.7,43.174q-.152-.081-.3-.169t-.29-.184q-.143-.1-.281-.2t-.271-.211q-.133-.109-.26-.224T2.05,41.95q-.121-.122-.237-.249t-.224-.26q-.109-.133-.211-.271t-.2-.281q-.1-.143-.184-.29t-.169-.3q-.081-.152-.154-.307t-.139-.314q-.066-.159-.124-.321T.3,39.033Q.251,38.868.21,38.7t-.075-.335Q.1,38.2.076,38.028t-.042-.341q-.017-.171-.025-.343T0,37V7q0-.172.008-.343t.025-.343q.017-.171.042-.341t.059-.338Q.168,5.465.21,5.3T.3,4.967q.05-.164.108-.326t.124-.321Q.6,4.162.672,4.007T.826,3.7Q.907,3.548,1,3.4t.184-.29q.1-.143.2-.281t.211-.271q.109-.133.224-.26T2.05,2.05q.121-.121.249-.237t.26-.224q.133-.109.271-.211t.281-.2q.143-.1.29-.184T3.7.826q.152-.081.307-.154T4.321.533q.159-.066.321-.124T4.967.3Q5.132.251,5.3.21T5.634.134Q5.8.1,5.972.076T6.313.034q.171-.017.343-.025T7,0Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 133.587, 338.673)" fill="#e8f0f9"/>
+      <path id="cap" d="M2,0H30q.1,0,.2.01t.194.029q.1.019.19.048t.185.066q.091.038.177.084t.168.1q.082.055.158.117t.145.132q.069.069.132.145t.117.158q.055.082.1.168t.084.177q.038.091.066.185t.048.19q.019.1.029.194T32,2V21q0,.1-.01.2t-.029.194q-.019.1-.048.19t-.066.185q-.037.091-.084.177t-.1.168q-.055.082-.117.157t-.132.145q-.069.069-.145.132t-.158.117q-.082.055-.168.1t-.177.084q-.091.038-.185.066t-.19.048q-.1.019-.194.029T30,23H2q-.1,0-.2-.01t-.194-.029q-.1-.019-.19-.048t-.185-.066q-.091-.037-.177-.084t-.168-.1q-.082-.055-.158-.117t-.145-.132q-.069-.069-.132-.145t-.117-.157q-.055-.082-.1-.168t-.084-.177q-.038-.091-.066-.185t-.048-.19q-.019-.1-.029-.194T0,21V2q0-.1.01-.2t.029-.194q.019-.1.048-.19t.066-.185q.038-.091.084-.177t.1-.168Q.391.807.454.731T.585.585Q.655.516.731.454T.888.337q.082-.055.168-.1T1.234.152q.091-.038.185-.066t.19-.048Q1.705.019,1.8.01T2,0Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 131.329, 325.871)" fill="#59adff"/>
+      <path id="label" d="M0,0H109V145H0Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 107.104, 407.315)" fill="#59adff"/>
+      <rect id="middle" width="74" height="38" rx="10" transform="translate(87 472)" fill="#9b6202"/>
+      <rect id="pointer" width="82" height="38" rx="10" transform="translate(87 434)" fill="#9b6202"/>
+      <rect id="ring" width="66" height="28" rx="10" transform="translate(87 510)" fill="#9b6202"/>
+      <rect id="pinkie" width="74" height="28" rx="10" transform="translate(86 538)" fill="#9b6202"/>
+      <rect id="thumb" width="82" height="38" rx="10" transform="translate(191 427)" fill="#9b6202"/>
+    </g>
+    <path id="back" d="M32.91,0H269.09C287.266,0,302,14.97,302,33.437V560.563C302,579.03,287.266,594,269.09,594H32.91C14.734,594,0,579.03,0,560.563V33.437C0,14.97,14.734,0,32.91,0Z" transform="translate(63 181)" fill="none" stroke="#d6d6d6" stroke-width="10"/>
+    <g id="notch">
+      <path id="notchRect" d="M20,0H278a20,20,0,0,1,20,20V56.867a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(65.5 183)" fill="#d6d6d6"/>
+    </g>
+    <g id="notch-2" data-name="notch" transform="translate(430 955.867) rotate(180)">
+      <path id="notchRect-2" data-name="notchRect" d="M20,0H278a20,20,0,0,1,20,20V56.867a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(65.5 183)" fill="#d6d6d6"/>
+    </g>
+    <g id="notch-3" data-name="notch" transform="translate(10 -75)">
+      <rect id="notchRect-3" data-name="notchRect" width="30" height="30" rx="15" transform="translate(282.5 270)"/>
+      <rect id="notchRect-4" data-name="notchRect" width="16" height="16" rx="8" transform="translate(289.5 277)" fill="#3a3a3a"/>
+    </g>
+    <g id="notch-4" data-name="notch" transform="translate(-188 -88)">
+      <rect id="notchRect-5" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-5" data-name="notch" transform="translate(-177 -88)">
+      <rect id="notchRect-6" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-6" data-name="notch" transform="translate(-166 -88)">
+      <rect id="notchRect-7" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-7" data-name="notch" transform="translate(-155 -88)">
+      <rect id="notchRect-8" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-8" data-name="notch" transform="translate(-144 -88)">
+      <rect id="notchRect-9" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-9" data-name="notch" transform="translate(-133 -88)">
+      <rect id="notchRect-10" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-10" data-name="notch" transform="translate(-122 -88)">
+      <rect id="notchRect-11" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-11" data-name="notch" transform="translate(-111 -88)">
+      <rect id="notchRect-12" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-12" data-name="notch" transform="translate(-100 -88)">
+      <rect id="notchRect-13" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-13" data-name="notch" transform="translate(-89 -88)">
+      <rect id="notchRect-14" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 283)"/>
+    </g>
+    <g id="notch-14" data-name="notch" transform="translate(-188 -80)">
+      <rect id="notchRect-15" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 282)"/>
+      <rect id="notchRect-16" data-name="notchRect" width="4" height="4" rx="2" transform="translate(290.5 282)"/>
+      <rect id="notchRect-17" data-name="notchRect" width="4" height="4" rx="2" transform="translate(301.5 282)"/>
+      <rect id="notchRect-18" data-name="notchRect" width="4" height="4" rx="2" transform="translate(312.5 282)"/>
+      <rect id="notchRect-19" data-name="notchRect" width="4" height="4" rx="2" transform="translate(323.5 282)"/>
+      <rect id="notchRect-20" data-name="notchRect" width="4" height="4" rx="2" transform="translate(334.5 282)"/>
+      <rect id="notchRect-21" data-name="notchRect" width="4" height="4" rx="2" transform="translate(345.5 282)"/>
+      <rect id="notchRect-22" data-name="notchRect" width="4" height="4" rx="2" transform="translate(356.5 282)"/>
+      <rect id="notchRect-23" data-name="notchRect" width="4" height="4" rx="2" transform="translate(367.5 282)"/>
+      <rect id="notchRect-24" data-name="notchRect" width="4" height="4" rx="2" transform="translate(378.5 282)"/>
+    </g>
+    <g id="notch-15" data-name="notch" transform="translate(-188 -73)">
+      <rect id="notchRect-25" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 282)"/>
+      <rect id="notchRect-26" data-name="notchRect" width="4" height="4" rx="2" transform="translate(290.5 282)"/>
+      <rect id="notchRect-27" data-name="notchRect" width="4" height="4" rx="2" transform="translate(301.5 282)"/>
+      <rect id="notchRect-28" data-name="notchRect" width="4" height="4" rx="2" transform="translate(312.5 282)"/>
+      <rect id="notchRect-29" data-name="notchRect" width="4" height="4" rx="2" transform="translate(323.5 282)"/>
+      <rect id="notchRect-30" data-name="notchRect" width="4" height="4" rx="2" transform="translate(334.5 282)"/>
+      <rect id="notchRect-31" data-name="notchRect" width="4" height="4" rx="2" transform="translate(345.5 282)"/>
+      <rect id="notchRect-32" data-name="notchRect" width="4" height="4" rx="2" transform="translate(356.5 282)"/>
+      <rect id="notchRect-33" data-name="notchRect" width="4" height="4" rx="2" transform="translate(367.5 282)"/>
+      <rect id="notchRect-34" data-name="notchRect" width="4" height="4" rx="2" transform="translate(378.5 282)"/>
+    </g>
+    <g id="notch-16" data-name="notch" transform="translate(-188 -66)">
+      <rect id="notchRect-35" data-name="notchRect" width="4" height="4" rx="2" transform="translate(279.5 282)"/>
+      <rect id="notchRect-36" data-name="notchRect" width="4" height="4" rx="2" transform="translate(290.5 282)"/>
+      <rect id="notchRect-37" data-name="notchRect" width="4" height="4" rx="2" transform="translate(301.5 282)"/>
+      <rect id="notchRect-38" data-name="notchRect" width="4" height="4" rx="2" transform="translate(312.5 282)"/>
+      <rect id="notchRect-39" data-name="notchRect" width="4" height="4" rx="2" transform="translate(323.5 282)"/>
+      <rect id="notchRect-40" data-name="notchRect" width="4" height="4" rx="2" transform="translate(334.5 282)"/>
+      <rect id="notchRect-41" data-name="notchRect" width="4" height="4" rx="2" transform="translate(345.5 282)"/>
+      <rect id="notchRect-42" data-name="notchRect" width="4" height="4" rx="2" transform="translate(356.5 282)"/>
+      <rect id="notchRect-43" data-name="notchRect" width="4" height="4" rx="2" transform="translate(367.5 282)"/>
+      <rect id="notchRect-44" data-name="notchRect" width="4" height="4" rx="2" transform="translate(378.5 282)"/>
+      <rect id="notchRect-45" data-name="notchRect" width="4" height="4" rx="2" transform="translate(463.5 268)"/>
+      <rect id="notchRect-46" data-name="notchRect" width="8" height="8" rx="2" transform="translate(461.5 278)" fill="#3a3a3a"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 -1004)">
+      <line id="Line_1" data-name="Line 1" x2="294.84" transform="translate(66.5 1243.5)" fill="none" stroke="#585454" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="294.84" transform="translate(66.5 1719.5)" fill="none" stroke="#585454" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y2="476" transform="translate(66.5 1243.5)" fill="none" stroke="#585454" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" y2="476" transform="translate(361.5 1243.5)" fill="none" stroke="#585454" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
